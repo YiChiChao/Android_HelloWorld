@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hello_world</string>
+    <string name="text1">page A</string>
+    <string name="button1_name">Go to Next Screen</string>
+    <string name="text2">page B</string>
+    <string name="button2_name">Back</string>
+</resources>
